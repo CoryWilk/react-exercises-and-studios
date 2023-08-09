@@ -1,0 +1,38 @@
+{"projects": [
+    {
+    "brand": "Schecter",
+    "founder": "David Schecter",
+    "photoUrl": "https://cf1.zzounds.com/media/productmedia/fit,2018by3200/quality,85/ZACKYMIRRORBODY-389fa15adff6c60f889a921a2be18e0a.jpg",
+    "alt": "Schecter Zacky Vengeance Signature Broken Mirror Guitar"  
+    },
+
+    {
+    "brand": "Gibson",
+    "founder": "Orville Gibson",
+    "photoUrl": "https://emeraldcityguitars.com/cdn/shop/products/1962GibsonES335-6.jpg?v=1665008451&width=1946",
+    "alt": "Gibson ES-335 Guitar"  
+    },
+
+    {
+    "brand": "Fender",
+    "founder": "Leo Fender",
+    "photoUrl": "https://images.reverb.com/image/upload/s--MN3nhvOH--/f_auto,t_large/v1464003075/w0sew5wizmqw70dvloqz.jpg",
+    "alt": "Fender Stratocaster Guitar"  
+    },
+
+    {
+    "brand": "Ibanez",
+    "founder": "Hoshino Gakki",
+    "photoUrl": "https://media.rainpos.com/6624/81515579_1047.jpg",
+    "alt": "Ibanez Gio Guitar"  
+    },
+
+    {
+    "brand": "Rickenbacker",
+    "founder": "Adolph Rickenbacker",
+    "photoUrl": "https://ae01.alicdn.com/kf/H5c895061b7224c7db335c18e17da17256/Rickenbacker-4003-Bass-Electric-Guitar-Black-Color-Chrome-Hardware-High-Quality-Guitarra-Free-Shipping.jpg",
+    "alt": "Rickenback Bass"  
+    }
+
+]
+}
